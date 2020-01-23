@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Terminator",
+            "releaseDate": 1984 
+        },
+        {
+            "id": 2,
+            "title": "Hall Pass",
+            "releaseDate": 2011
+        },
+        {
+            "id": 3,
+            "title": "Star Wars: The Phantom Menace",
+            "releaseDate": 1999
+        }
+    ]
+}
