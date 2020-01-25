@@ -1,5 +1,16 @@
 getMovies();
 
+// this will add the newMovie value to our existing movie DB (actually
+// don't know how to do that yet so this will just display new movie
+// in the HTML)
+document.getElementById("add-movie").addEventListener("click", showMovie);
+
+
+
+
+
+
+
 
 // ANOTHER WAY: VVV
 
